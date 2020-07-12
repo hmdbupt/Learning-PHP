@@ -9,10 +9,10 @@
     <?php
         // Variable declaration
         $name = "Helena"; // Data type string
-        $age = 44; // Data type decimal number (whole number)
+        $age = 44; // Data type integer number (whole number)
         $gender = "woman";
         $pronoun = "she";
-        $score = 98.9; // Data type float
+        $score = 98.9; // Data type float or decimal number
         $isMarried = true; // Data type boolean
         /* Data type null - it can be assigned to a variable whose value we 
         don't know in the beginning */
